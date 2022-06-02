@@ -19,7 +19,7 @@
 </div> -->
 
 ### :man_technologist: About Me :
-I am a Junior Software Engineer from Collingwood, Melbourne <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a Junior Software Engineer from Collingwood, Melbourne.
 
 - :telescope: I’ve fresh of completing a software development coding bootcamp with Le-Wagon, Melbourne.
 
