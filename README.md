@@ -21,7 +21,7 @@
 ### :man_technologist: About Me :
 I am a Junior Software Engineer from Collingwood, Melbourne.
 
-- :telescope: I’ve fresh of completing a software development coding bootcamp with Le-Wagon, Melbourne.
+- :telescope: I’m fresh of completing a software development coding bootcamp with Le-Wagon, Melbourne.
 
 - :seedling: Teaching myself Ruby Testing (rspec) and Javascript.
 
