@@ -23,7 +23,7 @@ I am a Junior Software Engineer from Collingwood, Melbourne.
 
 - :telescope: I’m fresh of completing a software development coding bootcamp with Le-Wagon, Melbourne.
 
-- :seedling: Teaching myself ~~Ruby Testing - RSpec~~ ✔ and Javascript.
+- :seedling: Teaching myself ~~Ruby Testing - RSpec~~ ✔ and expanding my knowledge of Javascript.
 
 - :zap: In my free time, I love architecture, property markets, basketball and nintendo64.
 
